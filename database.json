@@ -1,5 +1,17 @@
 {
+  "workspace": {
+    "none": [
+      "Project none",
+      "1637328713921"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "none:C:\\Users\\Dimon\\Desktop\\t800.obj": [
+      "none",
+      "C:\\Users\\Dimon\\Desktop\\t800.obj"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
